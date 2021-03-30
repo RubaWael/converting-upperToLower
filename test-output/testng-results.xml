@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T22:35:30 IDT" name="Default suite" finished-at="2021-03-30T22:35:30 IDT" duration-ms="99">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T22:35:30 IDT" name="Default test" finished-at="2021-03-30T22:35:30 IDT" duration-ms="99">
+      <class name="convert.TestConverting">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="beforeClass" finished-at="2021-03-30T22:35:30 IDT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="before()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="before" finished-at="2021-03-30T22:35:30 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testway1()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="testway1" finished-at="2021-03-30T22:35:30 IDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="after" finished-at="2021-03-30T22:35:30 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="before" finished-at="2021-03-30T22:35:30 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testway2()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="testway2" finished-at="2021-03-30T22:35:30 IDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="after" finished-at="2021-03-30T22:35:30 IDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:convert.TestConverting@503d687a]" started-at="2021-03-30T22:35:30 IDT" name="afterClass" finished-at="2021-03-30T22:35:30 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- convert.TestConverting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
